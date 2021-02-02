@@ -1,10 +1,26 @@
 [
   {
     "name": "Philou",
-    "comment": "useIcon accepts emoji or any other text",
+    "comment": "",
     "allyCode": "216858386",
-    "userIcon": ":clap:",
-    "tagIdOnDrop": "482281755055751168",
-    "tagIdOnClimb": "482281755055751168"
+    "userIcon": ":flag_mf:  ",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Brill Adrien",
+    "comment": "",
+    "allyCode": "559136816",
+    "userIcon": ":crossed_swords:  ",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Mol tilo",
+    "comment": "",
+    "allyCode": "795847398",
+    "userIcon": ":crossed_swords:  ",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   }
 ]
